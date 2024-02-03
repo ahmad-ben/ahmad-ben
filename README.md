@@ -1,5 +1,3 @@
-[![MasterHead](https://camo.githubusercontent.com/a757fdcf5a47eede49d003a2ba57d217d04b54913f960731119e604aa8e743eb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3732302f302a37513379765349765f7430696f4a2d5a2e676966)](https://github.com/ahmad-ben)
-
 <h1 align="center">Hi 👋, I'm Ahmed Ben Chakhter</h1>
 <h3 align="center">A Specialized Technician In Computer Network && Passionate frontend developer.</h3>
 
