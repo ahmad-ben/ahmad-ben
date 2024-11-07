@@ -4,13 +4,13 @@
 <img align="right" width='10000px' alt="Coding" src="https://www.cs.cmu.edu/~cangiuli/img/angry.gif" style="display:block;text-align:center;">
 
 &nbsp; 
-- 🌱 I’m currently learning **Githup Readme.**
+- 🌱 I’m currently learning **DSA / AWS.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ahmad-ben](https://github.com/ahmad-ben)
 
-- 💬 Ask me about **Angular.**
+- 💬 Ask me about **Web Development.**
 
-- 📫 How to reach me **ahmadbenchakhti@gmail.com**
+- 📫 How to reach me **ahmedbenchakhter@gmail.com**
 
 - ⚡ Fun fact **I Think That I'm In Love With My Laptop.**
 
