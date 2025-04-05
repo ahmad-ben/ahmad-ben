@@ -12,6 +12,12 @@
 - 🌱 I’m currently learning **DSA && AWS**.
 - 💬 Ask me about **Web Development**.
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ahmad-ben&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ahmad-ben&theme=dark&hide_border=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-ben&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://angular.io" target="_blank" rel="noreferrer"> 
